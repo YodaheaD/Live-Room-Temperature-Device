@@ -1,4 +1,6 @@
 # ESP32_ThingSpeak_Database_Proj
+![Alt text](PhotoOfEspDevice.png)
+
 This project contains three files. 
 1) The DHTToWebServer.cpp file.
   - This file is running directly on the ESP8266 device. 
